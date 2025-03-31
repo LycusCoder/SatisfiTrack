@@ -1,0 +1,5 @@
+[
+    {"review_id": 1, "sentiment": "positif", "confidence": 0.92},
+    {"review_id": 2, "sentiment": "negatif", "confidence": 0.87},
+    {"review_id": 3, "sentiment": "netral", "confidence": 0.5} 
+  ]

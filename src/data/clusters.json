@@ -1,0 +1,20 @@
+[
+  {
+    "cluster_id": 1,
+    "label": "Pelanggan Setia",
+    "members": 45,
+    "description": "Pelanggan yang sering memberikan ulasan positif dan loyal."
+  },
+  {
+    "cluster_id": 2,
+    "label": "Pelanggan Kritis",
+    "members": 30,
+    "description": "Pelanggan yang sering memberikan ulasan negatif atau netral."
+  },
+  {
+    "cluster_id": 3,
+    "label": "Pelanggan Baru",
+    "members": 25,
+    "description": "Pelanggan yang baru saja mulai menggunakan produk/jasa."
+  }
+]

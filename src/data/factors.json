@@ -1,0 +1,8 @@
+[
+  { "factor": "Kualitas Layanan", "importance": 0.45 },
+  { "factor": "Waktu Respon", "importance": 0.3 },
+  { "factor": "Harga Produk", "importance": 0.2 },
+  { "factor": "Kualitas Produk", "importance": 0.35 },
+  { "factor": "Pengalaman Pengguna", "importance": 0.25 },
+  { "factor": "Keandalan Pengiriman", "importance": 0.3 }
+]
