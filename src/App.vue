@@ -126,19 +126,19 @@ onMounted(() => {
 
             <!-- Social Media Icons -->
             <div class="flex space-x-4">
-              <a href="https://facebook.com" target="_blank"
+              <a href="https://facebook.com/404xtrap" target="_blank"
                 class="text-white dark:text-gray-300 hover:text-yellow-300 transition duration-300">
                 <Icon :icon="['fab', 'facebook-f']" />
               </a>
-              <a href="https://twitter.com" target="_blank"
+              <a href="https://x.com/lycusbendln" target="_blank"
                 class="text-white dark:text-gray-300 hover:text-yellow-300 transition duration-300">
                 <Icon :icon="['fab', 'twitter']" />
               </a>
-              <a href="https://linkedin.com" target="_blank"
+              <a href="https://linkedin.com/in/nourivex" target="_blank"
                 class="text-white dark:text-gray-300 hover:text-yellow-300 transition duration-300">
                 <Icon :icon="['fab', 'linkedin-in']" />
               </a>
-              <a href="https://instagram.com" target="_blank"
+              <a href="https://instagram.com/richlycus" target="_blank"
                 class="text-white dark:text-gray-300 hover:text-yellow-300 transition duration-300">
                 <Icon :icon="['fab', 'instagram']" />
               </a>
@@ -148,7 +148,7 @@ onMounted(() => {
           <!-- Copyright -->
           <div class="mt-4">
             <p class="text-center text-gray-200 dark:text-gray-400">
-              &copy; 2024 SatisfiTrack. All rights reserved.
+              &copy; 2025 SatisfiTrack. All rights reserved.
             </p>
           </div>
         </div>
